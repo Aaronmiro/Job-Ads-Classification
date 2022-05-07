@@ -1,7 +1,7 @@
 # Job-Ads-Classification
  
 ## Classification script
-Trained the model and created prediction output
+Trained the classification model and created a prediction output
 - Used the given ‘training_set’ file to generate a classifier and then did a prediction
 - Please change the file name for testing if you need 
 - location:
@@ -11,7 +11,7 @@ Trained the model and created prediction output
 - Created a new CSV file named ‘pred_result’ including the original job description and a new ‘Title’ column.
 
 ## Scraping script
-Scraped the text (job description) and title from the Indeed website
+Scraped the text (job description) and the job title from the Indeed website
 - Collected 5099 Ads for Data Scientist
 - Collected 5144 Ads for Software Engineer
 - Extracted the text from the HTML and created a CSV named ‘training_set’
